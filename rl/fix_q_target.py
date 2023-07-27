@@ -23,7 +23,7 @@ class CartPoleAgent(object):
                  gamma: float = .99,
                  delta: int = 100,
                  e_greedy: float = .1,
-                 sync_step: int = 8,
+                 sync_step: int = 4,
                  replay_buffer_limit: int = 1000,
                  replay_buffer_size: int = 1000,
                  replay_interval: int = 4,
