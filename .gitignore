@@ -1,3 +1,4 @@
 # Automatically created by mypy
 .mypy_cache
 .vscode
+*.mp4
